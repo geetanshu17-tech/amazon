@@ -1,0 +1,11 @@
+
+
+:root {
+  --color-primary: #232F3E;       /* Amazon Blue */
+  --color-secondary: #FF9900;     /* Amazon Orange */
+  --color-accent: #F3A847;        /* Deep Yellow */
+  --color-bg-light: #F2F2F2;      /* Light Gray Background */
+  --color-text-primary: #111111;  /* Dark Charcoal Text */
+  --color-text-secondary: #555555;
+  --color-border: #DDDDDD;
+}
